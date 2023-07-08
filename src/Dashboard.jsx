@@ -10,6 +10,7 @@ const Dashboard = () => {
 
       <div className="col-lg-10 main--section">
         <Stats />
+        <hr/>
         <Charts />
       </div>
 
